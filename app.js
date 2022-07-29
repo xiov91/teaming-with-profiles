@@ -73,7 +73,6 @@ inquirer
     }
 ])
 .then((answers) => {
-    const {}
 
 })
 
